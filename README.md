@@ -4,7 +4,9 @@ This is a maintained collection of free actionable resources for those conductin
 
 **You can find the OSINT Team on Keybase**
 
+
 ### Menu
+-[Lavacasted's Extension List](#extensions)
 - [Ph055a's OSINT Collection](#ph055as-osint-collection)
 - [Menu](#menu)
   - [Avatar](#avatar)
@@ -75,6 +77,18 @@ This is a maintained collection of free actionable resources for those conductin
   - [IBAN](#iban)
   - [Multi-Tools](#multi-tools)
 - [Darkweb](#darkweb)
+
+
+### Extensions
+
+These extensions are useful to use when doing OSINT investigations.
+
+- [Ressurect Pages](https://addons.mozilla.org/en-US/firefox/addon/resurrect-pages/)
+- [User-Agent Switcher](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/)
+- [Nimbus Screen Capture](https://addons.mozilla.org/en-US/firefox/addon/nimbus-screenshot/)
+- [Full Webpage Screenshots](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
+- [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+
 
 #### Avatar
 - [Gravatar Search](https://en.gravatar.com/site/check/)
